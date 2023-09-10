@@ -1,1 +1,1 @@
-# Datamining_try1
+Simple code for fetching hash values
